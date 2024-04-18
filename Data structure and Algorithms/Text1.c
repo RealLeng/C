@@ -18,7 +18,7 @@ typedef struct
 {
 	QElemType data[MAXSIZE];
 	int front;    	/* Í·Ö¸Õë */
-	int rear;		/* Î²Ö¸Õë£¬Èô¶ÓÁÐ²»¿Õ£¬Ö¸Ïò¶ÓÁÐÎ²ÔªËØµÄÏÂÒ»¸öÎ»ÖÃ */
+	int rear;		/* Î²Ö¸Õë£¬Èô¶ÓÁÐ²»¿Õ£¬Ö¸Ïò¶ÓÁÐÎ²ÔªËØµÄÏÂÒ»¸öÎ»ÖÃasdasdasdasdasd */
 }SqQueue;
 
 Status visit(QElemType c)
