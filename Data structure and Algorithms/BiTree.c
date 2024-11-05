@@ -18,7 +18,7 @@ char Get_c()
 void CreatTree(BiTree *s)
 {
     char ch;
-    ch=Get_c();
+    ch=getchar();
     if(ch=='#')
       *s=NULL;
     else
